@@ -41,3 +41,6 @@ The primary goal of this project is to:
 2. Open the project in your C++ IDE or text editor.
 3. Compile and run the `main.cpp` file to start the CLI Bank System.
 4. Interact with the system through the command-line interface.
+
+Login Details in FileStorage/Users.txt Are Encrypted
+Username: "Mhmd", Password: "1234"
